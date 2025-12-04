@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <h1>M+S art Gallery</h1>
+    <p>M+S ART GALLERY is an artist company dat produces pencil portraits in all sizes .A4,A3,A2,A1,and A0.Then also birthday cards,posters, landscapes, animal drawings and paintings</p>
+    <ol>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/589809160_1378564980374253_165646294738065947_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ESU6n552dUYQ7kNvwFVY1Y5&_nc_oc=Adk6leVTcET8sqE_ReMt0vCasV_NOVSuyLgVnMUXjb6RPdgyKU8Rg5YPpJ2W2VvqAF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AEa0rKlfz3w7JnrSX0-U3-VVABWQGupvbWF4lE-nxObMQ&oe=69572B7F"
+      <ol>
+      <li>birthday cards</li>
+      <li>posters</li>
+      <li>paintings</li>
+      <li>potraits</li>
+      <li>animal drawings</li>
+      </ol>
+
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="tex <title>MTS art gallery</title>
+  </head>
+  <body>
+    
+    <section id="overlay">
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/591983376_875516418148691_5000232790894106146_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=H-kuWP80SxkQ7kNvwF2lj23&_nc_oc=AdmMDKCD-NiPB1yW4YG6fHzU1I6iqFVm9uWQ4QI0J-6U9qjwHYcY1cwFTMgjYd9KYao&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AGt6LejBm9MMSILA7Scf4a0aal-rs9myh7NrvXkGf1xWQ&oe=695727BB" alt="MtS art Gallery Logo" id="logo">
+      <hr>
+      <!--Add your code below-->
+      <head>
+        <h1>ABOUT THE WEBSITE</h1>
+        <h2>"Where creativity meets passion"</h2>
+      <p>“MtS Art Gallery is a creative space where creativity turns into passioned masterpieces. From unique sculptures to personalized birthday and success cards, we design artwork that brings stories to life. Every piece is made with care, passion, and a touch of style—celebrating art in its many forms.”</p>
+      <p style="color: green;">Below are the links to mts art gallery</p>
+<a href="https://www.tiktok.com/@769solomonarts?lang=en" target="_blank">View our art pieces where creativty meets passion here we have very many contacts and products </a>
+<img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/592230856_878458774870738_3358455195184738466_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xQKfWcWS6_EQ7kNvwEr6iQS&_nc_oc=AdlWCtQSrHBt9m0PRyZ2LowdHrCf0y-X7JNvuE3yHKA9rCG8s5MNwL3LfClfUIAibOk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AFY47Y_w1t6nhvYmnILJONrhj7j_PxXi2mHxUw5tk6C1g&oe=69571EB8">
+</a>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MtS Art Gallery products</title>
+  <style>
+   /* place this in style.css */
+.watermark {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-12deg);
+  z-index: 9999;               /* sits above page content */
+  pointer-events: none;       /* clicks pass through */
+  opacity: 0.08;              /* faint watermark — adjust 0.02 → 0.15 */
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.watermark img{
+  max-width: 45vw;            /* responsive size; or set px e.g. 400px */
+  max-height: 45vh;
+  width: auto;
+  height: auto;
+  filter: grayscale(1);       /* optional: make b/w if logo is color */
+}
+</style>
+</head>
+<body>
+  <h1>MtS Art Gallery</h1>
+
+  <div class="gallery">
+    <div class="potraits">
+      <h2>potraits</h2>
+      <p>these bring a photocopy of your desire by m+s art gallery.</p>
+      <h2>About Our Portraits</h1>
+      <p>At M+S Art Gallery, our portraits are more than visual representations — they are carefully constructed narratives that celebrate identity, emotion, and the human experience. Every portrait we create is guided by a desire to bring out the inner world of the subject, revealing details that often go unnoticed in everyday life. Through thoughtful composition and deliberate artistic choices, we explore the subtle expressions, quiet moods, and distinctive features that make each person unique. Our approach is grounded in respect for individuality, allowing viewers to feel a genuine connection with the artwork. As you explore our portrait collection, you will notice how each piece invites you to pause, observe, and reflect, offering a window into stories told not through words, but through the powerful language of visual art.</p>
+      <h2>The Art Behind the Portrait</h2>
+      <p>Creating a portrait at M+S Art Gallery involves a process that blends observation, imagination, and technical skill. Our artists study posture, lighting, texture, and proportion to understand the subject beyond surface appearance. With each stroke, shade, or digital layer, the artwork begins to form a deeper narrative. We pay special attention to how light interacts with facial features, how shadows add dimension, and how fine details can elevate a portrait from a simple likeness to a meaningful representation. This slow, intentional process is part of what makes our portraits stand out. Every piece is created with care, patience, and an artistic curiosity that drives us to push boundaries. By the time a portrait is completed, it carries not only the identity of the subject but also the signature creative voice of M+S Art Gallery.</p>
+      <h2>Why Portraits Matter</h2>
+      <p>Portraits have held a special place in human culture for centuries, and at M+S Art Gallery, we honor that history by embracing the emotional power they carry. A portrait is more than a picture — it is a celebration of memory, personality, and presence. People turn to portraits when they want to preserve a moment, honor a loved one, or capture something meaningful about themselves. Our gallery understands how important these pieces can be, which is why we approach every portrait with sensitivity and purpose. We believe portraits help us appreciate the depth, complexity, and beauty within each person. They remind us that every individual has a story worth telling. Through our work, we aim to continue this timeless tradition, creating portraits that future generations can look back on with admiration and connection.</p>
+      <h2>What Makes Our Portraits Unique</h2>
+      <p>The portrait work at M+S Art Gallery stands apart because of our ability to merge classic artistry with modern creativity. We draw inspiration from traditional techniques — such as careful shading, realistic detail, and expressive lighting — while also experimenting with new styles, bold compositions, and contemporary concepts. This combination allows our portraits to appeal to a wide range of tastes, from those who enjoy timeless realism to those who appreciate fresh and unconventional artistic choices. Our artists are constantly exploring new ways to bring life to each piece, ensuring that no two portraits feel the same. Every artwork is crafted to capture attention, evoke emotion, and leave a lasting impression. Whether displayed in a private space or shared online, M+S Art Gallery portraits are created to be unforgettable. They reflect our dedication to quality and creativity, making each piece a meaningful addition to any collection.</p>
+      <div class="gallery">
+    <img src="img1.jpg" onclick="openLightbox(this)">
+    <img src="img2.jpg" onclick="openLightbox(this)">
+    <img src="img3.jpg" onclick="openLightbox(this)">
+    <img src="img4.jpg" onclick="openLightbox(this)">
+</div>
+
+<!-- Lightbox container -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <img id="lightbox-img">
+</div>
+      <img src="https://scontent.febb1.f>na.fbcdn.net/v/t1.15752-9/592252324_804760912541559_7726085372214232317_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=98NVP6m6vsgQ7kNvwGQBFrz&_nc_oc=AdksiLMIOqoY605WTcpvxdTPP-MHVlJfLWosf69f0VR0hicFljRsGsqwr3No6kllbJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AE8fPuTlHPvWG8VqlD4fsWS6URNeCt_AT_Cp5Xgnftjlg&oe=695762CD"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/592260593_25248764378122188_2967261521882389669_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=DV6_yiPogYUQ7kNvwEMJnoq&_nc_oc=AdkGmIYH78E0147W987J_bibK8XJ2iUIGCx0oHgv1ORMCwXtcrrdQ37cZj-aeFFPhT4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AHIVfMlzvOivPaLMvvEtjLX3kWm8d_lbWqmU21noUMhJA&oe=69573E68"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/591621331_916704654856772_3800745602014964051_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=bHg_xPFCRGQQ7kNvwECJ8uQ&_nc_oc=AdnjKbwTLjGCxB-z6_GN1j3ioxKJuTbyhN9KnRpDTZHrd08JHXUtCXEXpWd7hdruzYQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AFWnv4yap_LEz1jqgad8MnSQnVPnyiJGCLyUswBhq1g9Q&oe=69576D42"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/590461263_1182901920702477_4284200562491062035_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=pjGb45l6xWsQ7kNvwFRqNo9&_nc_oc=Adl6SaSSEAIBV-ZrNh3PTLYvUTsbgla2B4NCqU3n0oPq4D8mdDQfwcE1TsgR4_CGt3M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AGdPGPZg-C_xJCewxerjmzZjfpZxyobPPHnVj7ZNF3C2Q&oe=69575CB2"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/590360693_2078415922997130_6280657679370933792_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ZIDosfv50jMQ7kNvwHgG_x8&_nc_oc=AdkpYwW7jdNLyIFWljipNzBJqRMMjg7pQ7R9rTEiAv5y59m-6qzu37ZLUfCs2iLJ8VI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AFXdmTJt9kelfNoxgzil8twy16IYZUViOVZTyGAtyGe9w&oe=69573B20"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/589596184_1592452378668554_6627936837281130080_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ktnGrgR2_RMQ7kNvwFp1Em5&_nc_oc=AdlqIfA2Tffm7vCR5t013ZelrKVuQ_pWwfQ981zyY04bhbql21jlHfeoBdjTwigtf1I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AFXr8nLt0Z6svusu-7_9k78hZNLqdHYuTHbE7Xi4vLbgg&oe=69574842"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/590274915_829030283238228_6503264333187607146_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=N0i8GiNAptAQ7kNvwEb3i8N&_nc_oc=AdnGuaA3u_L_fpisEzezrOQ7Fs4BKrve11M_nyLid2UpoCz_D_EJe2nGToJ7FT3W_jI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AHzXHSUsuA2qgx-Np_cRnNBCJqx1B114_kvkA8ej9OL8g&oe=695763EF"></a>
+      <img src= "https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/591098681_1408325380902837_8669688222164872333_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=7p9giQ0keS0Q7kNvwGax0BJ&_nc_oc=Admexy5bcAOBPCHtXhL_FYwie0magafHys0OqSlCDbZelEQuwn4qMej6OE9_Pwxi1Zc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AHwTEYO0GIs8v09z49oYQvV580l_3ssEl3EgX0NW__dlA&oe=695751AA"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/591388846_1256105023014693_5137776843218102806_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RXh4xCvZENgQ7kNvwH1WHfx&_nc_oc=AdkxoTo4fhWghsAmMMz-3dEUQaqp69f-VdZ7hObAvbjts6hWWCpearJ_V4E5o77hjgo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AGh6a6FDsnEUe-pGNTB-0KKL9jD-wJLWIch0e4dP-UZHA&oe=695753B8"></a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/590182184_882156484153241_1143752804351165746_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=j1zwQI9dxbwQ7kNvwEEj7yi&_nc_oc=AdlIiScM5Gp9oIpN2oL-oOMxKGdZfMK03YwzY11fg8FQPDfVlPZRtUbl_OfTYVhwL0k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AHzuaA2XrTazH-ZtotsIhTZ28WaFWp0p-T1kgokdcag0w&oe=69574945"></a>
+
+    </div>
+
+    <div class="card birthday-cards">
+      <h2>landscape Cards</h2>
+      <p>Beautiful designs to show human nature by m+s art gallery.</p>
+      <a href="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/588618335_701727916342898_747952934435181805_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YQp1eI3E6ZYQ7kNvwG-XUCG&_nc_oc=AdmcUdO6pBj0bIIv4c3m14gRBBx5zKW_GHSVAyV4PT9gfXtSsV4WnH32m5Jk8BDKqJY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AEmQLK2kejIywI6Ng2eRv1BJIef8gTZmYUkZ4IQETUgkA&oe=6957134C" target="_blank">view nature</a>
+      <a href="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/593997125_2265337937295648_6287113476623201174_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=01OKOsX-ZdMQ7kNvwG13PTD&_nc_oc=Adl_sREq99MpujAxnyLeod4Aha1k-VAoJEliKxS7to8sRB3SD69GLFeiBHpmViAtzd4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AGsg7qBqpKZcsZ75rGA4zBUUYaOorJX_Cs78CUuJD-TyA&oe=695744D3" target="_blank">view nature</a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/591575688_1921092908507796_2187706741034105547_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=BaZXfrSaWp8Q7kNvwFtADkA&_nc_oc=AdniFhtGKjRHbppBmmTUrKVXLPOlmIa-cwaLnS17D1J4gGvyvFHVDkSX8oa4Gu_FqTc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AGAWd5LscBhD7o8zfYVIlEReKBB-_BmWY4SDRYhfK64HA&oe=69574C8E"></a>
+    </div>
+
+    <div class="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/590908375_1167173815618327_7497050001189066335_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ufFzSGdX2Q4Q7kNvwGX21a0&_nc_oc=Adl4z-gF-LweA6cUtiGnmIGf8P0mAYp5MKPHzu6xR9HQO27etfxR1PLil4oOtw2DcR8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AGyUI4MpCKxfKf3sEJ2-iDHr6Iut69veeITUOhxSmhhSA&oe=69574933">
+      <h2>Creativity</h2>
+      <p>Motivational cards for every achievement.</p>
+      <a href="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/589506776_1276719644471594_3231772463078002767_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=SplaWHlWTwsQ7kNvwEytu3H&_nc_oc=AdmIAQl259VjN2hKGbl5dyh7fDppmMvZ9_50zV39rM3PoNPyo1XemeI5rsPLkFgQ9PQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AEAWBPPgu1om71Hdnkt70I6pmUc4UfQUQXnhC0hxb_XSQ&oe=69571FDE" target="_blank">nature beauty</a>
+      <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.15752-9/588618335_701727916342898_747952934435181805_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=YQp1eI3E6ZYQ7kNvwG-XUCG&_nc_oc=AdmcUdO6pBj0bIIv4c3m14gRBBx5zKW_GHSVAyV4PT9gfXtSsV4WnH32m5Jk8BDKqJY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&oh=03_Q7cD4AE_5WaWpOeRll7WFygPuOCBID0KxSbqW9DtD3v1ofsI8Q&oe=69574B8C"></a>
+      <h3>If you want, I can also create:<h3>
+      <ul>
+        <li>A full “Portraits” page</li>
+        <li>Artist statements</li>
+        <li>A long introduction for the whole website</li>
+    </div>
+  </div>
+
+</body>
+
+<h2>Contact Us</h2>
+<ul>
+  <li>wats app: <a href="wats app:+256785452183" target="_blank">+256 785452183</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/msartgallery12/" target="_blank">@mtsartgallery</a></li>
+  <li>Facebook: <a href="https://www.facebook.com/profile.php?id=61582694587109" target="_blank">MtS Art Gallery</a></li>
+  <li>Tiktok:<a href="https://www.tiktok.com/@769solomonarts?lang=en"target=_blank">Mts Art Gallery</a></li>
+  <li>X:<a href="https://x.com/MSARTGALLERY12?s=20"target=_blank">Solomon “MS Art Gallery” Mutamb</a></li>
+</ul>
+          <p>"Where Creativity Meets Passion"</p>
+
+      
+      
+    </section>
+  </body>
+</html>
